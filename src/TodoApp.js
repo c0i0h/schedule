@@ -11,7 +11,7 @@ class TodoApp extends Todo {
     //getList()
     const items = super.getList();
 
-    console.log(items);
+    //console.log(items);
 
     let node = document.getElementsByClassName("todo-items");
     node[0].innerHTML = "";

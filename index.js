@@ -1,9 +1,9 @@
-import Todo from "./src/Todo";
+//import Todo from "./src/Todo";
 import TodoApp from "./src/TodoApp";
 import TodosManager from "./src/TodosManager";
 
-const studyTodo = new Todo("공부하기", false);
-console.log(studyTodo);
+//const studyTodo = new Todo("공부하기", false);
+//console.log(studyTodo);
 
 const todoApp = new TodoApp();
 const todoManager = new TodosManager();
